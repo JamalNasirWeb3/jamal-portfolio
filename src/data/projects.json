@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Agentic Nutritionist",
+    "description": "AI Powered nutritionist coupled with mentorship of a seasoned PhD Scholar.",
+    "tags": ["Python", "LangChain", "Anthropic", "Next.js"],
+    "liveUrl": "https://agenticnutritionist.vercel.app/",
+    "repoUrl": "https://github.com/yourusername/project-one"
+  },
+  {
+    "title": "Agenti AI Fitness Coach",
+    "description": "An Agentic AI workflow that automates a specific task. Describe what it does and the problem it solves.",
+    "tags": ["Python", "LangChain", "Gemini", "Vector DB"],
+    "liveUrl": "https://your-live-url.com",
+    "repoUrl": "https://github.com/yourusername/project-two"
+  }
+  ,
+  {
+    "title": "Legal Inteligence",
+    "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
+    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
+    "liveUrl": "",
+    "repoUrl": "https://github.com/yourusername/project-three"
+  },
+ {
+    "title": "Virtual Receptionist for Dental Care",
+    "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
+    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
+    "liveUrl": "",
+    "repoUrl": "https://github.com/yourusername/project-three"
+  },
+  {
+    "title": "Multi Lingual Mult Modal Healthcare RAG",
+    "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
+    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
+    "liveUrl": "",
+    "repoUrl": "https://github.com/yourusername/project-three"
+  }
+
+]
