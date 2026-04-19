@@ -10,8 +10,8 @@
     "title": "Agenti AI Fitness Coach",
     "description": "An Agentic AI workflow that automates a specific task. Describe what it does and the problem it solves.",
     "tags": ["Python", "LangChain", "Gemini", "Vector DB"],
-    "liveUrl": "https://your-live-url.com",
-    "repoUrl": "https://github.com/yourusername/project-two"
+    "liveUrl": "https://fitcoach-ai-sooty.vercel.app/",
+    "repoUrl": "https://github.com/JamalNasirWeb3/fitcoach-ai"
   }
   ,
   {
