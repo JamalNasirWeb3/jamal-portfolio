@@ -15,25 +15,46 @@
   }
   ,
   {
-    "title": "Legal Inteligence",
-    "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
-    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
-    "liveUrl": "",
-    "repoUrl": "https://github.com/yourusername/project-three"
+    "title": "AI Powered Facts Check ",
+    "description": "AI powered facts check including tweets, viral image, youtube videos",
+    "tags": ["Python", "Anthropic", "Serep API", "Next.js"],
+    "liveUrl": "https://agenticaimediacheck-beryl.vercel.app",
+    "repoUrl": "https://github.com/JamalNasirWeb3/agenticaimediacheck"
   },
  {
     "title": "Virtual Receptionist for Dental Care",
     "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
     "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
     "liveUrl": "",
-    "repoUrl": "https://github.com/yourusername/project-three"
+    "repoUrl": "https://vercel.com/jamal-nasir/virtualreceptionist"
   },
-  {
-    "title": "Multi Lingual Mult Modal Healthcare RAG",
+
+{
+"title": "AI Pwered Sports Platform",
+    "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
+    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
+    "liveUrl": "",
+    "repoUrl": "https://vercel.com/jamal-nasir/agentic-ai-sports"
+
+
+}
+
+,
+
+{
+  "title": "Multi Lingual Mult Modal Healthcare RAG",
     "description": "A RAG pipeline using vector databases and Anthropic Claude. Describe what it does and the problem it solves.",
     "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
     "liveUrl": "",
     "repoUrl": "https://github.com/yourusername/project-three"
+  }
+},
+  {
+    "title": "AI Powered Journal Recommender",
+    "description": " A tool for reseach scholars",
+    "tags": ["Python", "Anthropic", "Pinecone", "Next.js"],
+    "liveUrl": "",
+    "repoUrl": "https://journal-app-production-138c.up.railway.app/"
   }
 
 ]
